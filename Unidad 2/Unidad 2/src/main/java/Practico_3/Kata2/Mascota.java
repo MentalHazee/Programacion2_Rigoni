@@ -46,7 +46,7 @@ public class Mascota {
     }
 
     public void cumplirAnio(){
-        this.edad = this.edad + 1;
+        edad = edad + 1;
     }
 
 }

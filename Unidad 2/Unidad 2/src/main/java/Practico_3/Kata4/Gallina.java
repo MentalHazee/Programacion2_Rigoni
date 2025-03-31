@@ -7,7 +7,7 @@ public class Gallina {
     private static int contadorGallina=0;
 
     public Gallina(int edad, int huevosPuestos) {
-        this.idGallina = ++contadorGallina;
+        idGallina = ++contadorGallina;
         this.edad = edad;
         this.huevosPuestos = huevosPuestos;
     }
@@ -37,11 +37,11 @@ public class Gallina {
     }
 
     public void ponerHuevo(){
-        this.huevosPuestos=huevosPuestos+1;
+        huevosPuestos=huevosPuestos+1;
     }
 
     public void envejecer(){
-        this.edad=edad+1;
+        edad=edad+1;
     }
 
     public void mostrarInfo(){
