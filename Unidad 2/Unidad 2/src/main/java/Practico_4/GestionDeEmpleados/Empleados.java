@@ -60,9 +60,9 @@ public class Empleados {
         salario = salario + (salario * porcentaje/100);
         System.out.println("El incremento del "+porcentaje+ "% en el salario es de: "+FORMATO.format(salario));
     }
-    public void actualizarSalario(double salarioFijo){
-        salario = salarioFijo;
-        System.out.println("El salario ahora es de: "+ FORMATO.format(salario));
+    public void actualizarSalario(double salario){
+        this.salario = salario;
+        System.out.println("El salario ahora es de: "+ FORMATO.format(this.salario));
     }
 
     public static int mostrarTotalEmpleados(){
