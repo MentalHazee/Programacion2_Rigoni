@@ -55,19 +55,19 @@ public class Estudiante {
     }
 
     public void subirCalificacion(double puntos){
-        if (this.calificacion+puntos<=10){
-            this.calificacion+=puntos;
+        if (calificacion+puntos<=10){
+            calificacion+=puntos;
         }else{
-            this.calificacion = 10.0;
+            calificacion = 10.0;
         }
     }
 
     public void bajarCalificacion(double puntos){
-        if(this.calificacion-puntos>=0) {
-            if (this.calificacion - puntos >= 0) {
-                this.calificacion -= puntos;
+        if(calificacion-puntos>=0) {
+            if (calificacion - puntos >= 0) {
+                calificacion -= puntos;
             } else {
-                this.calificacion = 0.0;
+                calificacion = 0.0;
             }
         }
     }

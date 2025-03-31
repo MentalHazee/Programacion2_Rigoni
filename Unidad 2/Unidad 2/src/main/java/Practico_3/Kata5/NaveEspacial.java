@@ -25,27 +25,27 @@ public class NaveEspacial {
     }
 
     public void despegar(){
-        if (this.combustible<10){
+        if (combustible<10){
             System.out.println("ERROR");
         }else{
-            this.combustible=combustible-10;
+            combustible=combustible-10;
         }
 
     }
     public void avanzar(int distancia){
-        if (this.combustible<distancia){
+        if (combustible<distancia){
             System.out.println("-x No posee suficiente combustible para avanzar x-");
         }else{
-            this.combustible=combustible-distancia;
+            combustible=combustible-distancia;
             System.out.println("Usted avanzó "+distancia+ " años luz");
         }
 
     }
     public void recargarCombustible(int cantidad){
-        if(this.combustible+cantidad>100){
+        if(combustible+cantidad>100){
             System.out.println("-x Se ha exedido del máximo de combustible x-");
         }else{
-            this.combustible=cantidad+combustible;
+            combustible=cantidad+combustible;
             System.out.println("Carga exitosa, usted cargó "+ cantidad+ " litros de combustible");
         }
 

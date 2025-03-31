@@ -32,7 +32,7 @@ public class Libro {
 
     public void setAnioPublicacion(int nuevoAnio) {
         if (nuevoAnio >= 1800 && nuevoAnio <= 2025){
-            this.anioPublicacion = nuevoAnio;
+            anioPublicacion = nuevoAnio;
         }else{
             System.out.println("\nEl año debe estar entre 1800 y 2025");
         }
