@@ -6,13 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="48ce040e-aba3-481c-b345-798337427938" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_4/GestionDeEmpleados/Empleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_4/GestionDeEmpleados/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata1/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata1/Estudiante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Kata5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata1/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata1/Estudiante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata2/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata2/Mascota.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata3/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata3/Libro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata4/Gallina.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_3/Kata4/Gallina.java" afterDir="false" />
@@ -40,6 +42,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -57,8 +66,9 @@
     "Gradle.Unidad 2 [:Kata4.Main.main()].executor": "Run",
     "Gradle.Unidad 2 [:Kata5.Main.main()].executor": "Run",
     "Gradle.Unidad 2 [:Practico_3.Kata3.Main.main()].executor": "Run",
+    "Gradle.Unidad 2 [:Practico_4.GestionDeEmpleados.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/huesi/OneDrive/Escritorio/EDUCACION/UTN/Tools/Clases/2do Semestre/Programacion II - Rigoni/Ejercicios/Unidad 2"
   }
