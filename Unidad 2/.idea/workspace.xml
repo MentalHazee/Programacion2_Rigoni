@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ce040e-aba3-481c-b345-798337427938" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practica_Parcial_1/Cine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/Catedra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/DivisionCurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/Escuela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/TrabajoGrupal1/Relaciones/Nota.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_4/GestionDeEmpleados/Empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 2/src/main/java/Practico_4/GestionDeEmpleados/Empleados.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MentalHazee"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MentalHazee/Programacion2_Rigoni.git",
+    "accountId": "8fda3a5d-0cc6-423e-9d91-39c250b9c53e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,19 +66,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Unidad 2 [:Kata2.Main.main()].executor": "Run",
-    "Gradle.Unidad 2 [:Kata4.Main.main()].executor": "Run",
-    "Gradle.Unidad 2 [:Kata5.Main.main()].executor": "Run",
-    "Gradle.Unidad 2 [:Practico_3.Kata3.Main.main()].executor": "Run",
-    "Gradle.Unidad 2 [:Practico_4.GestionDeEmpleados.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/huesi/OneDrive/Escritorio/EDUCACION/UTN/Tools/Clases/2do Semestre/Programacion II - Rigoni/Ejercicios/Unidad 2/Unidad 2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Unidad 2 [:Kata2.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Unidad 2 [:Kata4.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Unidad 2 [:Kata5.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Unidad 2 [:Practico_3.Kata3.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Unidad 2 [:Practico_4.GestionDeEmpleados.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/huesi/OneDrive/Escritorio/EDUCACION/UTN/Tools/Clases/2do Semestre/Programacion II - Rigoni/Ejercicios/Unidad 2/Unidad 2/src/main/java/Practica_Parcial_1/Cine&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huesi\OneDrive\Escritorio\EDUCACION\UTN\Tools\Clases\2do Semestre\Programacion II - Rigoni\Ejercicios\Unidad 2\Unidad 2\src\main\java\Practica_Parcial_1\Cine" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Unidad 2" />
