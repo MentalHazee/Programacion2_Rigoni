@@ -1,5 +1,5 @@
 package entidades;
 
-public enum TipoEnvioEnum {
-    delivery, TakeAway
+public enum TipoEnvio {
+    DELIVERY, TAKEAWAY;
 }

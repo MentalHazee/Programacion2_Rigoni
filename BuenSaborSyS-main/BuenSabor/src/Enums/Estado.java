@@ -1,5 +1,5 @@
 package entidades;
 
-public enum EstadoEnum {
-    preparacion, pendiente, cancelado, rechazado, entregado
+public enum Estado {
+    PREPARACION, PENDIENTE, CANCELADO, RECHAZADO, ENTREGADO;
 }

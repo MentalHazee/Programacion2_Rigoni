@@ -1,5 +1,5 @@
 package entidades;
 
-public enum FormaPagoEnum {
-    efectivo, MercadoPago
+public enum FormaPago {
+    EFECTIVO, MERCADOPAGO;
 }

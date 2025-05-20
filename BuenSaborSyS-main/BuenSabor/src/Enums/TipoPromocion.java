@@ -1,5 +1,5 @@
 package entidades;
 
-public enum TipoPromocionEnum {
-    happyHour, promocion1
+public enum TipoPromocion {
+    HAPPYHOUR, PROMOCION1;
 }

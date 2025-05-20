@@ -1,5 +1,5 @@
 package entidades;
 
-public enum RolEnum {
-    admin, empleado, cliente
+public enum Rol {
+    ADMIN, EMPLEADO, CLIENTE;
 }
