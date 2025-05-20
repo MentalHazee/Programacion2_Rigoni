@@ -1,4 +1,4 @@
-package entidades;
+package Entities;
 
 public class Articulo {
 
