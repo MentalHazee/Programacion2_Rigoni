@@ -4,6 +4,8 @@ public class Pais {
 
     private String nombre;
 
+    private Set<Provincia> provincias;
+
     public Pais() {
     }
 

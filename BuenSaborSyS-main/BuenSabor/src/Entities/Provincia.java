@@ -4,6 +4,8 @@ public class Provincia {
 
     private String nombre;
 
+    private Set<Localidad> localidades;
+
     public Provincia() {
     }
 

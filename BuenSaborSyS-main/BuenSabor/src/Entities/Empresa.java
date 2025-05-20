@@ -6,6 +6,8 @@ public class Empresa {
 	private String razonSocial;
 	private Integer cuil;
 
+	private Set<Sucural> sucursales;
+
 	public Empresa() {
 	}
 

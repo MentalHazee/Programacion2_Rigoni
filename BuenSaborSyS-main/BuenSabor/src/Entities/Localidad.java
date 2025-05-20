@@ -4,6 +4,8 @@ public class Localidad {
 
     private String nombre;
 
+    private Set<Domicilio> domicilios;
+
     public Localidad() {
     }
 
