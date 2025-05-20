@@ -1,6 +1,7 @@
 package test;
 
-import Entities.*, Enums.*;
+import Entities.*;
+import Enums.*;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
